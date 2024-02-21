@@ -1,0 +1,1 @@
+EXEC usp_hello_world_load;

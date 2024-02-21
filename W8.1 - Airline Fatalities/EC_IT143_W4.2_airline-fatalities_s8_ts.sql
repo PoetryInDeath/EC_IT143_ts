@@ -1,0 +1,1 @@
+EXEC usp_airline_fatalities_load;

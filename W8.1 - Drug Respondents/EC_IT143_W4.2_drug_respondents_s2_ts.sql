@@ -1,0 +1,2 @@
+-- Q: What is the total number of respondents?
+-- A: Grab n for every group and add all together.
